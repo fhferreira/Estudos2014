@@ -1,4 +1,4 @@
-Estudos 2014
+Estudos/Objetivos 2014
 ===========
 
 Meus objetivos em 2014
@@ -16,3 +16,12 @@ Meus objetivos em 2014
 - Beber 2 Lts de Água por dia  
   
 - Ler ao menos 1 livro a cada 2 semanas.
+  
+- Reformar a casa
+  Varanda Lateral
+  Garagem
+  Cimentar Garagem
+  Churrasqueira
+  Pia
+  Grama
+  Automatizar Portão - Motor/Travas
