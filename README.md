@@ -9,7 +9,7 @@ Meus objetivos em 2014
   Ruby, Python, Objective-C, Node, C#, Perl, etc...  
   
 - Novos Conceitos:  
-  TDD, BDD, DevOps, Testes A/B, Hadoop, Big Query, Pentaho, SOA, Grunt, Gulp, API's, AngularJs, EmberJs, BackboneJs, Mustache
+  TDD, BDD, DevOps, Testes A/B, Hadoop, Big Query, Pentaho, SOA, Grunt, Gulp, API's, AngularJs, EmberJs, BackboneJs, Mustache, Vagrant
     
 - Praticar algum esporte. (Pedalando atualmente)
   
