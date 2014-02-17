@@ -11,7 +11,7 @@ Meus objetivos em 2014
 - Novos Conceitos:  
   TDD, BDD, DevOps, Testes A/B, Hadoop, Big Query, Pentaho, SOA, Grunt, Gulp, API's  
     
-- Praticar algum esporte  
+- Praticar algum esporte. (Pedalando atualmente)
   
 - Beber 2 Lts de Água por dia  
   
