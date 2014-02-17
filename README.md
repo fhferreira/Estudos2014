@@ -6,7 +6,7 @@ Meus objetivos em 2014
 - Curso de Inglês - Iniciando 21.02.2014  
   
 - Aprender novas linguagens    
-  Ruby, Python, Objective-C, Node, C#, etc...  
+  Ruby, Python, Objective-C, Node, C#, Perl, etc...  
   
 - Novos Conceitos:  
   TDD, BDD, DevOps, Testes A/B, Hadoop, Big Query, Pentaho, SOA, Grunt, Gulp, API's  
