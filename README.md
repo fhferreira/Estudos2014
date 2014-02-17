@@ -17,11 +17,11 @@ Meus objetivos em 2014
   
 - Ler ao menos 1 livro a cada 2 semanas.
   
-- Reformar a casa
-  Varanda Lateral
-  Garagem
-  Cimentar Garagem
-  Churrasqueira
-  Pia
-  Grama
-  Automatizar Portão - Motor/Travas
+- Reformar a casa 
+  Varanda Lateral  
+  Garagem  
+  Cimentar Garagem  
+  Churrasqueira  
+  Pia  
+  Grama  
+  Automatizar Portão - Motor/Travas  
